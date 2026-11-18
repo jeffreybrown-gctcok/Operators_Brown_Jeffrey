@@ -1,0 +1,15 @@
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\bin\Debug\net10.0\Operators_Brown_Jeffrey.exe
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\bin\Debug\net10.0\Operators_Brown_Jeffrey.deps.json
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\bin\Debug\net10.0\Operators_Brown_Jeffrey.runtimeconfig.json
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\bin\Debug\net10.0\Operators_Brown_Jeffrey.dll
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\bin\Debug\net10.0\Operators_Brown_Jeffrey.pdb
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.AssemblyInfoInputs.cache
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.AssemblyInfo.cs
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.csproj.CoreCompileInputs.cache
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.dll
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\refint\Operators_Brown_Jeffrey.dll
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.pdb
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operators_Brown_Jeffrey.genruntimeconfig.cache
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\ref\Operators_Brown_Jeffrey.dll
+C:\Users\JEFFREYBROWN\OneDrive - Green Country Technology Center\Documents\School Work\C# Beginner\Operators\Operators_Brown_Jeffrey\obj\Debug\net10.0\Operator.2C89C31F.Up2Date
